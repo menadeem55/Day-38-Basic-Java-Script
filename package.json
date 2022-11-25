@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArthemeticOp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menadeem55/Day-38-Basic-Java-Script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menadeem55/Day-38-Basic-Java-Script/issues"
+  },
+  "homepage": "https://github.com/menadeem55/Day-38-Basic-Java-Script#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
